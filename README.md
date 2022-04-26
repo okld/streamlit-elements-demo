@@ -2,8 +2,6 @@
 
 Streamlit Elements is a third-party component made by [okld](https://github.com/okld) that gives you the tools to compose beautiful applications and dashboards with Material UI widgets, Monaco editor (Visual Studio Code), Nivo charts, and more.
 
-It also includes a feature to create draggable and resizable dashboards.
-
 ## How to use?
 
 ### Installation
@@ -265,3 +263,7 @@ with elements("demo"):
                 media.Player(url=media_url, width="100%", height="100%", controls=True)
 
 ```
+
+## Any question?
+
+Feel free to ask any question regarding Streamlit Elements or this challenge there: [Streamlit Elements Topic](https://discuss.streamlit.io/t/streamlit-elements-build-draggable-and-resizable-dashboards-with-material-ui-nivo-charts-and-more/24616)
