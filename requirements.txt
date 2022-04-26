@@ -1,2 +1,3 @@
 streamlit
+streamlit-elements==0.1.*
 click==8
